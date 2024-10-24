@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557927807979",
+    "project_id": "annonymous-complaint--system",
+    "storage_bucket": "annonymous-complaint--system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557927807979:android:d414624f447d4e851377ae",
+        "android_client_info": {
+          "package_name": "com.example.anonymous_complaint_resolver_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTDX1DI-z63bTzM0cWNbtBpoQ3hpkNrtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
